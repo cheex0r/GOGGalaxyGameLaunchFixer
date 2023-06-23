@@ -1,5 +1,5 @@
 # GogGalaxyGameLaunchFixer
- Prevents GOG Galaxy when minimizng games when launching.
+ Prevents GOG Galaxy from minimizng games when launching.
 
 This program is to fix an issue where GOG Galaxy will minimize a game after it is launched. This tends to happen when using other launchers like Playnite to launch games via GOG Galaxy.
 
